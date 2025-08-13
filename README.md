@@ -11,3 +11,6 @@ Feito em Python no Google Colab, utilizando o dataset [Cats vs Dogs](https://www
 ## Resultados
 - Acurácia de treino: + de 95%
 - Acurácia de validação: + de 95%
+
+## 
+(Esse projeto foi realizado com o apoio de ferramentas de IA)
